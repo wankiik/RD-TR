@@ -4,6 +4,4 @@ fork该项目，在render上创建一个nodejs express的web  service，Start Co
 
 ### URI说明
 - /web: trojan的ws路径
-### 客户端配置
 
-![image](https://file.eeea.ga/view.php/34640c1e9d037ce69f3fd2971de26baa.png)
